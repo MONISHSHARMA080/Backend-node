@@ -1,5 +1,5 @@
 {
-  "singleQuotes": flase,
+  "singleQuotes": false,
   "bracketSpacing":true,
   "tabWidth":2,
   "trailingComma":"es5",
